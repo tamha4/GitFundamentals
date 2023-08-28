@@ -7,3 +7,4 @@ Here is a growing collection of resources and helpful commands to know when work
 ## Git Commands
 - [git config](./commands/onfig.md)
 - [git init](./commands/Init.md)
+- [git init](./commands/Add.md)
